@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Environment variables
+*.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Byte-compiled / optimized / DLL files
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Testing
+.coverage
+.cache/
+
+# Uvicorn reload artifacts
+*.pid
+
+# Static build (optional)
+staticfiles/
